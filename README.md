@@ -14,7 +14,6 @@
 </a>
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<br/>
 
 ### I'm Aleksey L.
 
@@ -22,9 +21,6 @@
 - 🌱 I’m currently learning everything 😄
 - ⚡ Fun fact: I love puppies
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
-<br/>
-<br/>
 
 [![Amatery github stats](https://github-readme-stats.vercel.app/api?username=Amatery)](https://github.com/anuraghazra/github-readme-stats)
 
