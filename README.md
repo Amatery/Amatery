@@ -21,6 +21,13 @@
 - 🌱 I’m currently learning everything 😄
 - ⚡ Fun fact: I love puppies
 - 🥅 2020 Goals: Contribute more to Open Source projects
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 [![Amatery github stats](https://github-readme-stats.vercel.app/api?username=Amatery&show_owner=false)](https://github.com/anuraghazra/github-readme-stats)
 
