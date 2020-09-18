@@ -24,6 +24,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 <br/>
+<br/>
 
 [![Amatery github stats](https://github-readme-stats.vercel.app/api?username=Amatery)](https://github.com/anuraghazra/github-readme-stats)
 
