@@ -22,6 +22,6 @@
 - ⚡ Fun fact: I love puppies
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-[![Amatery github stats](https://github-readme-stats.vercel.app/api?username=Amatery)](https://github.com/anuraghazra/github-readme-stats)
+[![Amatery github stats](https://github-readme-stats.vercel.app/api?username=Amatery&show_owner=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
