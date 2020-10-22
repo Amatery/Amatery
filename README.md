@@ -17,9 +17,9 @@
 
 ### I'm Aleksey L.
 
-- 🔭 I’m currently working on open source projects
+- 🔭 I’m currently working in Neattech.io Company
 - 🌱 I’m currently learning everything 😄
-- ⚡ Fun fact: I love puppies
+- ⚡ Fun fact: I love puppies!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 <br/>
 <br/>
