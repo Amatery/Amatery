@@ -20,7 +20,7 @@
 - 🔭 I’m currently working in Nord-Soft Company
 - 🌱 I’m currently learning React/React Native
 - ⚡ Fun fact: I love puppies!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 <br/>
 <br/>
 <br/>
