@@ -17,7 +17,7 @@
 
 ### I'm Aleksey L.
 
-- 🔭 I’m currently working in Nord-Soft Company
+- 🔭 I’m currently working in iTechArt Group
 - 🌱 I’m currently learning React/React Native
 - ⚡ Fun fact: I love puppies!
 - 🥅 2021 Goals: Contribute more to Open Source projects
