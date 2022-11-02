@@ -9,7 +9,7 @@
 <a href="https://github.com/Amatery">
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/geeksindzi">
+<a href="https://t.me/Alexey_507">
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br/>
@@ -20,7 +20,7 @@
 - 🔭 I’m currently working in iTechArt Group
 - 🌱 I’m currently learning React/React Native
 - ⚡ Fun fact: I love puppies!
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 <br/>
 <br/>
 <br/>
