@@ -17,10 +17,9 @@
 
 ### I'm Aleksey L.
 
-- 🔭 I’m currently working in iTechArt Group
-- 🌱 I’m currently learning React/React Native
+- 🌱 I’m currently learning React / Node JS
 - ⚡ Fun fact: I love puppies!
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Become a full-stack developer
 <br/>
 <br/>
 <br/>
