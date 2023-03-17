@@ -17,7 +17,7 @@
 
 ### I'm Aleksey L.
 
-- 🌱 I’m currently learning React / Node JS
+- 🌱 I’m working as Software Engineer
 - ⚡ Fun fact: I love puppies!
 - 🥅 2023 Goals: Become a full-stack developer
 <br/>
