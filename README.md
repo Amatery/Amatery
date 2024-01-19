@@ -17,9 +17,8 @@
 
 ### I'm Aleksey L.
 
-- 🌱 I’m working as Software Engineer
-- ⚡ Fun fact: I love puppies!
-- 🥅 2023 Goals: Become a full-stack developer
+- 🌱 I’m working as Fullstack Software Engineer
+- 🥅 2024 Goals: Learn Ruby
 <br/>
 <br/>
 <br/>
