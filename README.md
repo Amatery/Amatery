@@ -18,7 +18,7 @@
 ### I'm Aleksey L.
 
 - 🌱 I’m working as Fullstack Software Engineer
-- 🥅 2024 Goals: Learn Ruby
+- 🥅 2025 Goals: Learn Ruby
 <br/>
 <br/>
 <br/>
